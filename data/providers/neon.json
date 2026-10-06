@@ -81,7 +81,7 @@
   },
   "compliance": {
     "soc2": true,
-    "hipaa": true,
+    "hipaa": false,
     "iso27001": true,
     "gdpr": true
   },
